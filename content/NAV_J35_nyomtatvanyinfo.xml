@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Nyomtatvanyinfo xmlns="https://soap.api.nav.gov.hu/external/webnyk/nyomtatvanyinfo/1.0" version="1.10">
+    <BoritekParameter>
+        <Kulcs>adoszam</Kulcs>
+        <Ertek>//Block_120001/FieldGroup_120002/Field_0A0001E001A</Ertek>
+    </BoritekParameter>
+    <Nyomtatvanyinformacio>
+        <Adozo>
+            <Nev>//Block_120001/FieldGroup_120002/Field_0A0001E003A</Nev>
+            <Adoszam>//Block_120001/FieldGroup_120002/Field_0A0001E001A</Adoszam>
+        </Adozo>
+    </Nyomtatvanyinformacio>
+    <CsatolmanyInformacio>serialize(array {/*:Doc_NAV_J35/*[local-name() = ('Form_NAV_J35')]/*[starts-with(local-name(), 'Attachment')]!map {"fileId":  string(fileId),"fileName":  string(fileName),"fileSize": xs:long(string(fileSize))}},map{"method":"json"} )</CsatolmanyInformacio>
+    <KrCimzett>NAV</KrCimzett>
+</Nyomtatvanyinfo>
